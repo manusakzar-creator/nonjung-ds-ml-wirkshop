@@ -248,7 +248,7 @@ else: # ถ้ายังไม่ได้อัปโหลดไฟล์
     st.info("Please upload a CSV file to begin data cleaning.") # แสดงข้อความให้ผู้ใช้อัปโหลดไฟล์
 
 if st.button("🏠 กลับหน้าหลัก"):
-    st.switch_page("pages/clean_mumu.py")
+    st.switch_page("pages/app.py")
 elif st.button("🏠 เครืองคิดเลข"):
     st.switch_page("pages/app1_discount_calc.py")
 elif st.button("🏠 เคลียร์ข้อมูลพนักงาน"):
