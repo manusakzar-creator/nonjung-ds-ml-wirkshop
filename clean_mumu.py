@@ -250,5 +250,5 @@ else: # ถ้ายังไม่ได้อัปโหลดไฟล์
 if st.button("🏠 กลับหน้าหลัก"):
     st.switch_page("app.py")
 elif st.button("🏠 เครืองคิดเลข"):
-    st.switch_page("cleanapp.py")
+    st.switch_page("app1_discount_calc.py")
 
