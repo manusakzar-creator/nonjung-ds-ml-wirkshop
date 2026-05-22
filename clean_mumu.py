@@ -249,5 +249,4 @@ else: # ถ้ายังไม่ได้อัปโหลดไฟล์
 
 if st.button("🏠 กลับหน้าหลัก"):
     st.switch_page("app.py")
-elif st.button("ปุ่มที่ 1)
-    st.switch_page("Clean_mumu.py)
+
