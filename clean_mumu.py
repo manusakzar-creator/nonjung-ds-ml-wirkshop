@@ -17,6 +17,8 @@ st.markdown("ยินดีต้อนรับสู่แอปพลิเ�
 st.markdown("--- ท่านสามารถอัปโหลดไฟล์ CSV และเลือกขั้นตอนการทำความสะอาดข้อมูลได้ ---") # คำแนะนำเบื้องต้น
 st.error("ใช้สำหรับชุดข้อมูลที่มีโครงสร้างเหมือน redbull_workshop_dirty.csv เท่านั้น")
 
+
+
 # --- File Uploader ---
 uploaded_file = st.file_uploader("Upload your CSV file", type=["csv"]) # ช่องสำหรับอัปโหลดไฟล์ CSV
 
@@ -247,3 +249,5 @@ else: # ถ้ายังไม่ได้อัปโหลดไฟล์
 
 if st.button("🏠 กลับหน้าหลัก"):
     st.switch_page("app.py")
+elif st.button("ปุ่มที่ 1)
+    st.switch_page("Clean_mumu.py)
