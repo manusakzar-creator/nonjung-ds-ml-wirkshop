@@ -250,7 +250,7 @@ if uploaded_file is not None: # ถ้ามีการอัปโหลดไ
 else: # ถ้ายังไม่ได้อัปโหลดไฟล์
     st.info("Please upload a CSV file to begin data cleaning.") # แสดงข้อความให้ผู้ใช้อัปโหลดไฟล์
 
-if st.button("🏠 ย้อนกลับ"):
+if st.button("🏠 Data clean"):
     st.switch_page("pages/clean_customers.py")
 elif st.button("🏠 เครืองคิดเลข"):
     st.switch_page("pages/app1_discount_calc.py")
