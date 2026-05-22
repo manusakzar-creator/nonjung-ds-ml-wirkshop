@@ -252,5 +252,5 @@ if st.button("🏠 กลับหน้าหลัก"):
 elif st.button("🏠 เครืองคิดเลข"):
     st.switch_page("pages/app1_discount_calc.py")
 elif st.button("🏠 เคลียร์ข้อมูลพนักงาน"):
-    st.switch_page("pages/clean_customer.py")
+    st.switch_page("pages/clean_customers.py")
 
