@@ -17,7 +17,7 @@ st.markdown("ยินดีต้อนรับสู่แอปพลิเ�
 st.markdown("--- ท่านสามารถอัปโหลดไฟล์ CSV และเลือกขั้นตอนการทำความสะอาดข้อมูลได้ ---") # คำแนะนำเบื้องต้น
 st.error("ใช้สำหรับชุดข้อมูลที่มีโครงสร้างเหมือน redbull_workshop_dirty.csv เท่านั้น")
 st.markdown('''Mr.John Doeeeee! :balloon:''')
-st.markdown("Here's a bouquet &mdash;\
+st.markdown("นี่คือความสวยงามของฉัน Oh my god;\
             :tulip::cherry_blossom::rose::hibiscus::sunflower::blossom:")
 
 
