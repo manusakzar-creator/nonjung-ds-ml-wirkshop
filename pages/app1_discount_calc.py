@@ -38,4 +38,4 @@ if st.button("คำนวณยอดสุทธิ"):
 
 
 if st.button("🏠 กลับหน้าหลัก"):
-    st.switch_page("app.py")
+    st.switch_page("clean_mumu.py")
