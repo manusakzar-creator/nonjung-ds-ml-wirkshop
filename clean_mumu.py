@@ -16,7 +16,7 @@ st.title("🐂 Data Cleaning Workshop App by manusak") # ตั้งชื่�
 st.markdown("ยินดีต้อนรับสู่แอปพลิเคชัน Data Cleaning!") # ข้อความต้อนรับ
 st.markdown("--- ท่านสามารถอัปโหลดไฟล์ CSV และเลือกขั้นตอนการทำความสะอาดข้อมูลได้ ---") # คำแนะนำเบื้องต้น
 st.error("ใช้สำหรับชุดข้อมูลที่มีโครงสร้างเหมือน redbull_workshop_dirty.csv เท่านั้น")
-st.markdown('''Happy Streamlit-ing! :balloon:''')
+st.markdown('''Mr.John Doeeeee! :balloon:''')
 
 
 # --- File Uploader ---
