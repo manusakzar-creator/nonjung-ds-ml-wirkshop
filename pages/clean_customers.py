@@ -148,4 +148,4 @@ else:
 # ปุ่มกลับหน้าหลัก
 st.sidebar.divider()
 if st.sidebar.button("🏠 กลับหน้าหลัก"):
-    st.switch_page("app.py")
+    st.switch_page("clean_mumu.py")
