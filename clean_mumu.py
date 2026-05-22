@@ -19,7 +19,7 @@ st.error("ใช้สำหรับชุดข้อมูลที่มี�
 st.markdown('''Mr.John Doeeeee! :balloon:''')
 st.markdown("นี่คือความสวยงามของฉัน Oh my god;\
             :tulip::cherry_blossom::rose::hibiscus::sunflower::blossom:")
-st.subheader("_Streamlit_ is :blue[cool] :sunglasses:")
+st.subheader("_Streamlit_ is :blue[Good] :sunglasses:")
 
 
 # --- File Uploader ---
