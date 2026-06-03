@@ -168,3 +168,4 @@ else:
     st.info("⬆️ โปรดอัปโหลดไฟล์ CSV เพื่อเริ่มต้นใช้งาน") # แสดงข้อความแนะนำเมื่อยังไม่ได้อัปโหลดไฟล์
 if st.button("🏠 กลับหน้าหลัก"):
     st.switch_page("app.py")
+    st.switch_page1("app1_discount_calc.py")
