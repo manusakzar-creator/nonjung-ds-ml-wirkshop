@@ -247,3 +247,4 @@ else: # ถ้ายังไม่ได้อัปโหลดไฟล์
 
 if st.button("🏠 กลับหน้าหลัก"):
     st.switch_page("app.py")
+    st.switch_page1("tranform_app.py")
